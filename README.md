@@ -7,8 +7,8 @@ Project Leaders: Alena Chao, Danny Tran  </br>
 Project Members: AJ DeMarinis, Andrew Choy, Joelle Siong Sin, Maya Zheng, Tim Park </br>
 
 ## Members' Projects
-Cavo-SLAHM-T<link repo> by Joelle and Maya </br>
-CavoTraffic<link repo> by Andrew and Tim </br>
+[Cavo-SLAHM-T](https://github.com/jsiongsin/cavoslahmt) by Joelle and Maya </br>
+[CavoTraffic](https://github.com/AndrewChoyCS/TrafficDetectionModel) by Andrew and Tim </br>
 [CavoTransfer](https://github.com/ajdema/neural_style_transfer) by AJ
 
 ## Example Project
